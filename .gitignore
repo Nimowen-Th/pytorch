@@ -4,12 +4,12 @@
 /.settings/
 /.vscode/
 /bin/
-/code/data/MNIST
+code/model/
+code/data/
 
 .classpath
 .project
 .settings
-.idea
  ##filter databfile、sln file##
 *.mdb
 *.ldb
@@ -45,6 +45,3 @@ Icon?
 ehthumbs.db
 Thumbs.db
 .factorypath
-/.mvn/
-/mvnw.cmd
-/mvnw
